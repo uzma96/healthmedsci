@@ -1,0 +1,1 @@
+[11-Sep-2018 19:30:18 UTC] PHP Fatal error:  Class 'http\Url' not found in /home/healthmedsci/public_html/app/Http/Controllers/JournalController.php on line 96

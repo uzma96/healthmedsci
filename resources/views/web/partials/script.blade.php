@@ -1,0 +1,14 @@
+<script src="assets/web/js/jquery.min.js"></script>
+<script src="assets/web/js/bootstrap.min.js"></script>
+<script src="assets/web/js/smooth-scroll.js"></script>
+<script src="assets/web/js/jquery.ajaxchimp.min.js"></script>
+<script src="assets/web/js/jquery.countTo.js"></script>
+<script src="assets/web/js/isotope.pkgd.min.js"></script>
+<script src="assets/web/js/jquery.appear.js"></script>
+<script src="assets/web/js/jquery.plugin.min.js"></script>
+<script src="assets/web/js/owl.carousel.min.js"></script>
+<script src="assets/web/js/jquery.prettyPhoto.js"></script>
+<script src="assets/web/js/nanoscroll.js"></script>
+<script src="assets/web/js/wow.min.js"></script>
+<script src="assets/web/js/script.js"></script>
+<script src="assets/web/js/switcher.js"></script>
